@@ -71,6 +71,12 @@ AI 会走五步作业法，产出带检验的候选名清单。
 
 推荐读原著——这套五步法只是入口，书里有完整的品牌方法论。
 
+## 更多工具
+
+- [昊哥-读新闻拿观点](https://github.com/gxh98/haoge-news-insight) —— 新闻链接进，认知卡片出
+- [昊哥-开源skill技能猎手](https://github.com/gxh98/haoge-opensource-skill-hunter) —— 找开源，先验活
+- [昊哥 · GitHub 开源发布流水线](https://github.com/gxh98/haoge-open-source-launch) —— 从"能跑"到"GitHub 公开可下载"
+
 ## 许可证
 
 MIT，见 [LICENSE](LICENSE)。
